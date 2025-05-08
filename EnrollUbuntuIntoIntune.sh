@@ -6,6 +6,8 @@
 # The script is tested on Ubuntu 20.04 and 22.04.
 # The script is provided "AS IS" with no warranties.
 
+# 250508: Script modified by Lasse Nilsson to support Ubuntu 24.04 only
+
 # Specify the log file path
 LOG_FILE="/var/log/EnrollToIntune.log"
 
